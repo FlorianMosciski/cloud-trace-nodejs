@@ -1,6 +1,6 @@
-body: |-
+body:!|-
 
-    > **Warning**
+*   > **Warning**
     >
     > `cloud-trace-nodejs` is in maintenance mode. This means that we'll continue to fix bugs
     > add add security patches. We'll consider merging new feature contributions (depending
@@ -171,3 +171,4 @@ body: |-
     [queuing-problem]: https://github.com/groundwater/nodejs-symposiums/tree/master/2016-02-26-Errors/Round1/UserModeQueuing
     [setting-up-stackdriver-trace]: https://cloud.google.com/trace/docs/setup/nodejs
     [otel]: https://opentelemetry.io/docs/instrumentation/js/libraries/
+ 
